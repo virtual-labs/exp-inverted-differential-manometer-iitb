@@ -1,0 +1,10 @@
+let specific_gravity_1 = 1;
+let specific_gravity_2 = 0.9;
+let specific_gravity_3 = 0.7;
+let gravity = 9.81;
+let h1 = 0;
+let h2 = 0;
+let hm = 0;
+let pressure = 0;
+let act2_pressure = 0;
+//# sourceMappingURL=data.js.map
