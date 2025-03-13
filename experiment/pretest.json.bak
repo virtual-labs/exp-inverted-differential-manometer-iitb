@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Inverted U tube manometer is used to measure",
+        "qid": 1,
+        "option_a": "Difference of Pressure between two points",
+        "option_b": "Absolute Pressure",
+        "option_c": "Vacuum Pressure",
+        "option_d": "Gauge Pressure",
+        "correct_option": "a"
+    },
+    {
+        "question": "Pressure difference measured by Inverted U tube manometer is given by",
+        "qid": 2,
+        "option_a": "&rho;*g/h<sub>2</sub>",
+        "option_b": "&rho;<sub>1</sub>* g*h<sub>1</sub>- &rho;<sub>2</sub>* g*h<sub>2</sub>",
+        "option_c": "&rho;<sub>1</sub>*g*h<sub>1</sub> - &rho;<sub>2</sub>* g*h<sub>2</sub>-&rho;<sub>s</sub>*g*h",
+        "option_d": "g*h<sub>1</sub>",
+        "correct_option": "c"
+    }
+]

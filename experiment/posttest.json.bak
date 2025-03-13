@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "Pipe A contains water and Pipe B contains a liquid of specific gravity 0.9. Manometric liquid is having specific gravity of 0.7. Find the pressure difference between pipe A and pipe B. Take h1 = 27 cm, h2 = 11 cm, hm = 11 cm",
+        "qid": 1,
+        "option_a": "922.14 N/m<sup>2</sup>",
+        "option_b": "952.22 N/m<sup>2</sup>",
+        "option_c": "897.18 N/m<sup>2</sup>",
+        "option_d": "758.45 N/m<sup>2</sup>",
+        "correct_option": "a"
+    },
+    {
+        "question": "Pipe A contains water and Pipe B contains a liquid of specific gravity 0.9. Manometric liquid is having specific gravity of 0.7. Find the pressure difference between pipe A and pipe B. Take h1 = 27 cm, h2 = 9 cm, hm = 11 cm",
+        "qid": 2,
+        "option_a": "1022.32 N/m<sup>2</sup>",
+        "option_b": "1098.72 N/m<sup>2</sup>",
+        "option_c": "998.44 N/m<sup>2</sup>",
+        "option_d": "1108.25 N/m<sup>2</sup>",
+        "correct_option": "b"
+    }
+]
